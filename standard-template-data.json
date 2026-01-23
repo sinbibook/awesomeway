@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-01-23T02:42:48.113Z",
-    "templateType": "full_banner_slider_group",
+    "version": "1.5.0",
+    "generatedAt": "2026-01-23T03:10:03.433Z",
+    "templateType": "full_banner_slider_flat",
     "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
     "homepageId": "122037db-cb7a-49a8-a0ba-cde59245921c"
   },
@@ -770,7 +770,7 @@
   ],
   "homepage": {
     "domain": "awesomeway.kr",
-    "templateType": "full_banner_slider_group",
+    "templateType": "full_banner_slider_flat",
     "images": [
       {
         "logo": []
@@ -880,7 +880,7 @@
                 "description": " "
               },
               "essence": {
-                "title": "객실 안에서 즐기는 단독 온수 풀장 프라이빗하게 이어지는 건식 사우나의 여유 밖으로 나서지 않아도 완성되는 휴식 온전히 나만을 위한 시간이 흐릅니다.",
+                "title": "객실 안에서 즐기는 단독 온수 풀장과 프라이빗하게 이어지는 건식 사우나에서, 밖으로 나서지 않아도 완성되는 휴식을 경험하며 온전히 나만을 위한 시간이 흐릅니다.",
                 "images": [
                   {
                     "id": "79b9dbc6-0d98-41e0-aa95-f806cc733417",
@@ -1030,9 +1030,6 @@
           ]
         }
       },
-      "popup": {
-        "popups": []
-      },
       "theme": {
         "font": {
           "koSub": {
@@ -1058,6 +1055,9 @@
           "primary": "#FFFFFF",
           "secondary": "#715656"
         }
+      },
+      "popup": {
+        "popups": []
       },
       "property": {
         "images": [
@@ -3681,7 +3681,6 @@
           ]
         }
       ]
-    },
-    "id": "122037db-cb7a-49a8-a0ba-cde59245921c"
+    }
   }
 }
