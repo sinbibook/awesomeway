@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-01-23T03:12:00.719Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-01-23T03:27:22.886Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
     "homepageId": "122037db-cb7a-49a8-a0ba-cde59245921c"
@@ -992,11 +992,20 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "557ce565-bdd1-42a8-8f21-0ed33cbfa608",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/directions_hero/1769138706073-qt03ulqfi5q.jpg?quality=70",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/directions_hero/1769138706073-qt03ulqfi5q.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "notice": {
                 "title": "",
-                "description": ""
+                "description": "📌대중교통 이용법\n\n✅ 신경주역(KTX) 하차\n👉 역 앞에서 택시/카카오T로 약 15~25분 이동\n\n✅ 일반 기차 (경주역) 하차\n👉 역 앞에서  택시/카카오T로 약 10~20분 이동"
               }
             }
           ]
@@ -1005,10 +1014,37 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "03b8c532-caac-4eba-bc2f-e4bb15c8fce8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/main_hero/1769138387054-82857vrqz8b.jpg?quality=70",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/main_hero/1769138387054-82857vrqz8b.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": " 머무는 길 위에서 특별한 쉼을 만납니다\n여행의 시작과 끝이 모두 편안해지는 공간\n소란에서 벗어나 나만의 리듬을 되찾는 시간\n프라이빗한 풀과 따뜻한 온기가 이어지고\n사우나에서 하루의 긴장을 천천히 풀어냅니다.\n\n밖으로 나서지 않아도 충분한 휴식\n오롯이 나에게 집중하는 순간\n\n경주 어썸웨이 풀빌라"
               },
-              "about": []
+              "about": [
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "10f5df0e-4059-4912-984d-242e6a9c52af",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/main_about/1769138387055-gf6550k815.jpg?quality=70",
+                      "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/main_about/1769138387055-gf6550k815.jpg",
+                      "sortOrder": 0,
+                      "description": "ㄹㄹㄹ",
+                      "isSelected": true,
+                      "blockId": "94305924-044d-4379-a355-792cee32484d"
+                    }
+                  ],
+                  "blockId": "94305924-044d-4379-a355-792cee32484d",
+                  "description": " "
+                }
+              ]
             }
           ]
         },
@@ -1019,7 +1055,24 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "7867b4a9-0b30-4417-9025-365bcc1a8c42",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/reservation_hero/1769138821325-28a1y5vl7kw.jpg?quality=70",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/reservation_hero/1769138821325-28a1y5vl7kw.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "4810ad4b-c3d7-440b-8a8b-202f8b8b04b8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/reservation_hero/1769138821326-dsn3yo65hsc.jpg?quality=70",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/reservation_hero/1769138821326-dsn3yo65hsc.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": {
                 "title": "",
