@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-01-23T02:40:42.275Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-01-23T02:42:03.454Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
     "homepageId": "122037db-cb7a-49a8-a0ba-cde59245921c"
@@ -872,7 +872,7 @@
                     "id": "2d4798c6-a75c-4163-b385-907ba6fe5208",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_closing/1769135815185-bfme5i6sfhj.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_closing/1769135815185-bfme5i6sfhj.jpg",
-                    "sortOrder": 11,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   }
@@ -908,7 +908,7 @@
                     "id": "d45650bc-bc47-4f04-a664-0875684a8276",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_gallery/1769135815184-ankkkghaaol.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_gallery/1769135815184-ankkkghaaol.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 0,
                     "description": "건식 사우나",
                     "isSelected": true
                   },
@@ -916,7 +916,7 @@
                     "id": "cf1593f2-a2f7-4381-8451-c26791d88485",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_gallery/1769135815184-h3xu4vqtm0u.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_gallery/1769135815184-h3xu4vqtm0u.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 1,
                     "description": "단독 미온수 풀장",
                     "isSelected": true
                   },
@@ -953,7 +953,7 @@
                     "id": "d08d0b21-2862-4489-83e1-39430a3482e7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815185-hefe493v279.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815185-hefe493v279.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 0,
                     "description": "개별 미온수 풀에서 즐기는 사적인 여유\r\n계절에 구애받지 않는 프라이빗한 휴식",
                     "isSelected": true
                   },
@@ -961,7 +961,7 @@
                     "id": "6b884bb0-2515-45a5-99f1-ba8ad198c6dd",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815185-1ibe1zgxo1k.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815185-1ibe1zgxo1k.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 1,
                     "description": "따뜻한 온기로 몸과 마음을 풀어주는 공간\r\n객실 안에서 즐기는 건식 사우나의 시간",
                     "isSelected": true
                   },
@@ -969,7 +969,7 @@
                     "id": "968686a4-eb5c-4237-9636-b50276c3ab1d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815185-0v27wa7ywyif.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815185-0v27wa7ywyif.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 2,
                     "description": "따뜻한 온기로 몸과 마음을 풀어주는 공간\r\n객실 안에서 즐기는 건식 사우나의 시간",
                     "isSelected": true
                   },
@@ -977,7 +977,7 @@
                     "id": "62987ee8-0e64-41ac-9058-c43644d4d9cf",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815184-8a8ikju6hx7.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815184-8a8ikju6hx7.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 3,
                     "description": "개별 미온수 풀에서 즐기는 사적인 여유\r\n계절에 구애받지 않는 프라이빗한 휴식",
                     "isSelected": true
                   }
@@ -1054,7 +1054,10 @@
             "family": "InkLiquid"
           }
         },
-        "color": null
+        "color": {
+          "primary": "#FFFFFF",
+          "secondary": "#F05C00"
+        }
       },
       "property": {
         "images": [
