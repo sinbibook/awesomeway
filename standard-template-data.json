@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-01-23T05:12:41.549Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-01-23T05:16:42.610Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
     "homepageId": "122037db-cb7a-49a8-a0ba-cde59245921c"
@@ -959,27 +959,27 @@
                 "title": "ㅇㅇㅇ",
                 "images": [
                   {
-                    "id": "d08d0b21-2862-4489-83e1-39430a3482e7",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815185-hefe493v279.jpg?quality=70",
-                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815185-hefe493v279.jpg",
-                    "sortOrder": 0,
-                    "description": "개별 미온수 풀에서 즐기는 사적인 여유\r\n계절에 구애받지 않는 프라이빗한 휴식",
-                    "isSelected": true
-                  },
-                  {
                     "id": "6b884bb0-2515-45a5-99f1-ba8ad198c6dd",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815185-1ibe1zgxo1k.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815185-1ibe1zgxo1k.jpg",
-                    "sortOrder": 1,
-                    "description": "따뜻한 온기로 몸과 마음을 풀어주는 공간\r\n객실 안에서 즐기는 건식 사우나의 시간",
+                    "sortOrder": 0,
+                    "description": "따뜻한 온기로 몸과 마음을 풀어주는 공간,\n객실 안에서 즐기는 건식 사우나의 시간",
                     "isSelected": true
                   },
                   {
                     "id": "968686a4-eb5c-4237-9636-b50276c3ab1d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815185-0v27wa7ywyif.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815185-0v27wa7ywyif.jpg",
+                    "sortOrder": 1,
+                    "description": "따뜻한 온기로 몸과 마음을 풀어주는 공간,\n 객실 안에서 즐기는 건식 사우나의 시간",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "d08d0b21-2862-4489-83e1-39430a3482e7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815185-hefe493v279.jpg?quality=70",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815185-hefe493v279.jpg",
                     "sortOrder": 2,
-                    "description": "따뜻한 온기로 몸과 마음을 풀어주는 공간\n 객실 안에서 즐기는 건식 사우나의 시간",
+                    "description": "개별 미온수 풀에서 즐기는 사적인 여유,\n계절에 구애받지 않는 프라이빗한 휴식",
                     "isSelected": true
                   },
                   {
@@ -987,7 +987,7 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815184-8a8ikju6hx7.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815184-8a8ikju6hx7.jpg",
                     "sortOrder": 3,
-                    "description": "개별 미온수 풀에서 즐기는 사적인 여유\n 계절에 구애받지 않는 프라이빗한 휴식",
+                    "description": "개별 미온수 풀에서 즐기는 사적인 여유,\n 계절에 구애받지 않는 프라이빗한 휴식",
                     "isSelected": true
                   }
                 ],
