@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.24.0",
-    "generatedAt": "2026-01-26T08:10:12.778Z",
+    "version": "1.25.0",
+    "generatedAt": "2026-01-26T08:10:58.421Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
     "homepageId": "122037db-cb7a-49a8-a0ba-cde59245921c"
@@ -968,10 +968,10 @@
                     "isSelected": true
                   },
                   {
-                    "id": "62987ee8-0e64-41ac-9058-c43644d4d9cf",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815184-8a8ikju6hx7.jpg",
+                    "id": "1b0e296b-9139-4e3d-8d96-0826b96de688",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769415052923-2toq190fjs3.jpg",
                     "sortOrder": 3,
-                    "description": "개별 미온수 풀에서 즐기는 사적인 여유,\n 계절에 구애받지 않는 프라이빗한 휴식",
+                    "description": "개별 미온수 풀에서 즐기는 사적인 여유,\r\n계절에 구애받지 않는 프라이빗한 휴식",
                     "isSelected": true
                   }
                 ],
