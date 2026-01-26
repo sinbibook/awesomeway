@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-01-26T04:00:06.465Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-01-26T05:33:28.636Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
     "homepageId": "122037db-cb7a-49a8-a0ba-cde59245921c"
@@ -1267,7 +1267,7 @@
             },
             {
               "id": "562e7341-6fef-4192-b628-03b67c795700",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/roomtype_interior/1769133072551-tv1wzmryt3d.jpg?quality=100",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/roomtype_interior/1769133072551-tv1wzmryt3d.jpg",
               "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/roomtype_interior/1769133072551-tv1wzmryt3d.jpg",
               "sortOrder": 0,
               "description": "",
