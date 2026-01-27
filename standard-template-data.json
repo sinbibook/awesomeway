@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.28.0",
-    "generatedAt": "2026-01-27T00:03:55.313Z",
+    "version": "1.29.0",
+    "generatedAt": "2026-01-27T01:11:49.733Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
     "homepageId": "122037db-cb7a-49a8-a0ba-cde59245921c"
@@ -1004,7 +1004,7 @@
               },
               "notice": {
                 "title": "",
-                "description": "📌대중교통 이용법\n\n✅ 신경주역(KTX) 하차\n👉 역 앞에서 택시/카카오T로 약 15~25분 이동\n\n✅ 일반 기차 (경주역) 하차\n👉 역 앞에서  택시/카카오T로 약 10~20분 이동"
+                "description": "📌 대중교통 이용법\n\n🚏 신경주역(KTX) 하차\n👉 역 앞에서 택시/카카오T로 약 15~25분 내외\n\n🚍경주 시외버스터미널 / 고속버스터미널\n👉 터미널 앞에서 택시/카카오T로 약 10~20분 내외"
               }
             }
           ]
