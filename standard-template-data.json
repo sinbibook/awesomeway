@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.55.0",
-    "generatedAt": "2026-01-30T03:06:16.813Z",
+    "version": "1.56.0",
+    "generatedAt": "2026-01-30T03:11:27.782Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
     "homepageId": "122037db-cb7a-49a8-a0ba-cde59245921c"
@@ -341,7 +341,7 @@
     {
       "id": "89d7978d-b22d-420f-9711-be54cecc150b",
       "name": "A-1(독채, 사우나, 글랭핑존)",
-      "description": "",
+      "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+사우나+테라스+풀빌라",
       "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+사우나+테라스+풀빌라",
       "group": null,
       "size": 148,
