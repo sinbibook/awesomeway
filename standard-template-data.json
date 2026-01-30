@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.57.0",
-    "generatedAt": "2026-01-30T03:20:38.425Z",
+    "version": "1.58.0",
+    "generatedAt": "2026-01-30T03:22:20.994Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
     "homepageId": "122037db-cb7a-49a8-a0ba-cde59245921c"
@@ -877,7 +877,7 @@
                 "description": " "
               },
               "essence": {
-                "title": "객실 안에서 즐기는 단독 온수 풀장과 프라이빗하게 이어지는 건식 사우나에서, 밖으로 나서지 않아도 완성되는 휴식을 경험하며 온전히 나만을 위한 시간이 흐릅니다.",
+                "title": "객실 안에서 즐기는 단독 풀장과 프라이빗하게 이어지는 건식 사우나에서, 밖으로 나서지 않아도 완성되는 휴식을 경험하며 온전히 나만을 위한 시간이 흐릅니다.",
                 "images": [
                   {
                     "id": "79b9dbc6-0d98-41e0-aa95-f806cc733417",
@@ -903,7 +903,7 @@
                     "id": "cf1593f2-a2f7-4381-8451-c26791d88485",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_gallery/1769135815184-h3xu4vqtm0u.jpg",
                     "sortOrder": 0,
-                    "description": "단독 미온수 풀장",
+                    "description": "단독 풀장",
                     "isSelected": true
                   },
                   {
@@ -964,14 +964,14 @@
                     "id": "d08d0b21-2862-4489-83e1-39430a3482e7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769135815185-hefe493v279.jpg",
                     "sortOrder": 2,
-                    "description": "개별 미온수 풀에서 즐기는 사적인 여유,\n계절에 구애받지 않는 프라이빗한 휴식",
+                    "description": "개별 풀빌라에서 즐기는 사적인 여유,\n계절에 구애받지 않는 프라이빗한 휴식",
                     "isSelected": true
                   },
                   {
                     "id": "1b0e296b-9139-4e3d-8d96-0826b96de688",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_signature/1769415052923-2toq190fjs3.jpg",
                     "sortOrder": 3,
-                    "description": "개별 미온수 풀에서 즐기는 사적인 여유,\r\n계절에 구애받지 않는 프라이빗한 휴식",
+                    "description": "개별 풀빌라에서 즐기는 사적인 여유,\n계절에 구애받지 않는 프라이빗한 휴식",
                     "isSelected": true
                   }
                 ],
