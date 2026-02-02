@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.58.0",
-    "generatedAt": "2026-01-30T03:22:20.994Z",
+    "version": "1.59.0",
+    "generatedAt": "2026-02-02T00:29:25.248Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
     "homepageId": "122037db-cb7a-49a8-a0ba-cde59245921c"
@@ -334,15 +334,15 @@
     ],
     "nameEn": "Gyeongju Awesomeway Pool Villa",
     "domain": "awesomeway.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/10553",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/partner/item/10553/calendar_list/",
     "ybsId": ""
   },
   "rooms": [
     {
       "id": "89d7978d-b22d-420f-9711-be54cecc150b",
       "name": "A-1(독채, 사우나, 글랭핑존)",
-      "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+사우나+테라스+풀빌라",
-      "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+사우나+테라스+풀빌라",
+      "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
+      "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
       "group": null,
       "size": 148,
       "baseOccupancy": 4,
@@ -395,8 +395,8 @@
     {
       "id": "2ce76d9d-4563-4789-ad48-5013598ce3e4",
       "name": "A-2(독채, 사우나, 글램핑존)",
-      "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+사우나+테라스+풀빌라",
-      "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+사우나+테라스+풀빌라",
+      "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
+      "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
       "group": null,
       "size": 148,
       "baseOccupancy": 4,
@@ -449,8 +449,8 @@
     {
       "id": "ff515441-5b78-4a8c-8f67-1ff03a42e836",
       "name": "A-3(독채, 사우나, 글램핑존)",
-      "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+사우나+테라스+풀빌라",
-      "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+사우나+테라스+풀빌라",
+      "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
+      "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
       "group": null,
       "size": 148,
       "baseOccupancy": 4,
@@ -503,8 +503,8 @@
     {
       "id": "1d18e1a3-df17-4d15-a52c-cfbaaccb7274",
       "name": "A-4(독채, 사우나, 글램핑존)",
-      "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+사우나+테라스+풀빌라",
-      "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+사우나+테라스+풀빌라",
+      "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
+      "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
       "group": null,
       "size": 148,
       "baseOccupancy": 4,
@@ -557,8 +557,8 @@
     {
       "id": "4243093e-1825-4069-a57a-527a1fb72209",
       "name": "B-1(독채)",
-      "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+테라스+풀빌라",
-      "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+테라스+풀빌라",
+      "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
+      "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
       "group": null,
       "size": 125,
       "baseOccupancy": 2,
@@ -610,8 +610,8 @@
     {
       "id": "66a71bce-1234-4a28-adcd-4d0b578582ff",
       "name": "B-2(독채)",
-      "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+테라스+풀빌라",
-      "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+테라스+풀빌라",
+      "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
+      "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
       "group": null,
       "size": 125,
       "baseOccupancy": 2,
@@ -663,8 +663,8 @@
     {
       "id": "1f50e92a-c4c7-463a-9b7b-eacd7acba031",
       "name": "B-3(독채)",
-      "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+테라스+풀빌라",
-      "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+테라스+풀빌라",
+      "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
+      "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
       "group": null,
       "size": 125,
       "baseOccupancy": 2,
@@ -716,8 +716,8 @@
     {
       "id": "ec43da2e-e957-474e-96bf-6dcc154e6963",
       "name": "B-4(독채)",
-      "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+테라스+풀빌라",
-      "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+테라스+풀빌라",
+      "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
+      "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
       "group": null,
       "size": 125,
       "baseOccupancy": 2,
