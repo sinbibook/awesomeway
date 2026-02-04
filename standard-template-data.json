@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.61.0",
-    "generatedAt": "2026-02-02T00:30:39.629Z",
+    "version": "1.62.0",
+    "generatedAt": "2026-02-04T04:04:50.024Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
     "homepageId": "122037db-cb7a-49a8-a0ba-cde59245921c"
@@ -335,7 +335,7 @@
     "nameEn": "Gyeongju Awesomeway Pool Villa",
     "domain": "awesomeway.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/partner/item/10553/calendar_list/",
-    "ybsId": ""
+    "ybsId": "79364"
   },
   "rooms": [
     {
@@ -2930,6 +2930,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "122037db-cb7a-49a8-a0ba-cde59245921c"
   }
 }
