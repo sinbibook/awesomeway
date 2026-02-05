@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.62.0",
-    "generatedAt": "2026-02-04T04:04:50.024Z",
+    "version": "1.63.0",
+    "generatedAt": "2026-02-05T00:21:08.494Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
     "homepageId": "122037db-cb7a-49a8-a0ba-cde59245921c"
@@ -15,7 +15,7 @@
     "latitude": 35.7852343159395,
     "longitude": 129.322804151022,
     "contactPhone": "010-4911-5533",
-    "contactEmail": "",
+    "contactEmail": "awesomeway11@naver.com",
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입/퇴실 안내]\n - 입실시각: 15시\n - 퇴실시각: 11시\n ※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
@@ -44,7 +44,7 @@
       "representativeName": "윤창현",
       "businessAddress": "경상북도 경주시 진현로3길 21-3(진현동)",
       "businessPhone": "010-4911-5533",
-      "businessEmail": "0000@naver.com",
+      "businessEmail": "awesomeway11@naver.com",
       "businessType": "individual",
       "businessCategory": "숙박업",
       "eCommerceRegistrationNumber": ""
