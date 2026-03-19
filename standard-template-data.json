@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.66.0",
-    "generatedAt": "2026-03-19T01:40:27.410Z",
+    "version": "1.67.0",
+    "generatedAt": "2026-03-19T01:45:17.924Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
     "homepageId": "122037db-cb7a-49a8-a0ba-cde59245921c"
@@ -1022,8 +1022,8 @@
                     "isSelected": true
                   },
                   {
-                    "id": "3656766c-b19f-4555-a00e-ffc4f7cf84a5",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_gallery/1769135815184-n6h4hsynjbr.jpg",
+                    "id": "5a032eb6-5cd9-4b3b-a4f9-ab61296bc46c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/index_gallery/1773884661399-odj80b5lr9.jpg",
                     "sortOrder": 2,
                     "description": "객실",
                     "isSelected": true
