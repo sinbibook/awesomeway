@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.69.0",
-    "generatedAt": "2026-03-20T05:06:20.498Z",
+    "version": "1.70.0",
+    "generatedAt": "2026-03-24T02:02:49.644Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
     "homepageId": "122037db-cb7a-49a8-a0ba-cde59245921c"
@@ -1213,7 +1213,29 @@
         }
       },
       "popup": {
-        "popups": []
+        "popups": [
+          {
+            "id": "a5235e99-0be1-4a01-ab0f-908258b14264",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "7b358111-0f08-4c78-b69b-6e0ee6e2630e",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/122037db-cb7a-49a8-a0ba-cde59245921c/popup/1774317763534-83r3p0bu3zx.jpg",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "a5235e99-0be1-4a01-ab0f-908258b14264"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": "2026-05-31",
+            "sortOrder": 0,
+            "startDate": "2026-03-24",
+            "description": ""
+          }
+        ]
       },
       "property": {
         "images": [
