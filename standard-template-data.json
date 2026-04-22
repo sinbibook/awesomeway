@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.72.0",
-    "generatedAt": "2026-04-01T03:31:00.691Z",
+    "version": "1.73.0",
+    "generatedAt": "2026-04-22T04:36:06.565Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
     "homepageId": "122037db-cb7a-49a8-a0ba-cde59245921c"
@@ -9,6 +9,7 @@
   "property": {
     "id": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
     "name": "경주 어썸웨이 풀빌라",
+    "nameEn": "Gyeongju Awesomeway Pool Villa",
     "description": "",
     "subtitle": "경주의 고요한 풍경 속에서 프라이빗 풀과 여유로운 휴식을 동시에 누리는 경주 어썸웨이 풀빌라",
     "address": "경북 경주시 진현로3길 21-3 (진현동)",
@@ -23,6 +24,9 @@
     "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n수영장 등 부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
     "province": "경상북도",
     "city": "경주시",
+    "domain": "awesomeway.kr",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/partner/item/10553/calendar_list/",
+    "ybsId": "79364",
     "amenities": [],
     "nearbyAttractions": [
       "산",
@@ -431,27 +435,40 @@
         "surrounding": [],
         "commonArea": []
       }
-    ],
-    "nameEn": "Gyeongju Awesomeway Pool Villa",
-    "domain": "awesomeway.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/partner/item/10553/calendar_list/",
-    "ybsId": "79364"
+    ]
   },
   "rooms": [
     {
       "id": "89d7978d-b22d-420f-9711-be54cecc150b",
+      "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
+      "propertyName": "경주 어썸웨이 풀빌라",
       "name": "A-1(독채, 사우나, 글랭핑존)",
+      "nameEn": "A-1",
       "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
       "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
       "usageGuide": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
       "group": null,
       "size": 148,
+      "sizePyeong": 44.8,
       "baseOccupancy": 4,
       "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -484,6 +501,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "5e94d853-0b75-4319-a4ef-b94fa5647f66",
       "images": [
         {
           "thumbnail": [],
@@ -491,22 +509,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 1
+      "displayOrder": 1,
+      "createdAt": "2026-01-05T05:28:07.781Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "2ce76d9d-4563-4789-ad48-5013598ce3e4",
+      "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
+      "propertyName": "경주 어썸웨이 풀빌라",
       "name": "A-2(독채, 사우나, 글램핑존)",
+      "nameEn": "A-2",
       "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
       "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
       "usageGuide": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
       "group": null,
       "size": 148,
+      "sizePyeong": 44.8,
       "baseOccupancy": 4,
       "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -539,6 +578,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "5e94d853-0b75-4319-a4ef-b94fa5647f66",
       "images": [
         {
           "thumbnail": [],
@@ -546,22 +586,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 2
+      "displayOrder": 2,
+      "createdAt": "2026-01-05T05:28:07.872Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "ff515441-5b78-4a8c-8f67-1ff03a42e836",
+      "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
+      "propertyName": "경주 어썸웨이 풀빌라",
       "name": "A-3(독채, 사우나, 글램핑존)",
+      "nameEn": "A-3",
       "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
       "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
       "usageGuide": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
       "group": null,
       "size": 148,
+      "sizePyeong": 44.8,
       "baseOccupancy": 4,
       "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -594,6 +655,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "5e94d853-0b75-4319-a4ef-b94fa5647f66",
       "images": [
         {
           "thumbnail": [],
@@ -601,22 +663,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 3
+      "displayOrder": 3,
+      "createdAt": "2026-01-05T05:28:07.914Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "1d18e1a3-df17-4d15-a52c-cfbaaccb7274",
+      "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
+      "propertyName": "경주 어썸웨이 풀빌라",
       "name": "A-4(독채, 사우나, 글램핑존)",
+      "nameEn": "A-4",
       "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
       "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
       "usageGuide": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실1+주방1+사우나+테라스+풀빌라",
       "group": null,
       "size": 148,
+      "sizePyeong": 44.8,
       "baseOccupancy": 4,
       "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -649,6 +732,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "5e94d853-0b75-4319-a4ef-b94fa5647f66",
       "images": [
         {
           "thumbnail": [],
@@ -656,22 +740,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 4
+      "displayOrder": 4,
+      "createdAt": "2026-01-05T05:28:07.909Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "4243093e-1825-4069-a57a-527a1fb72209",
+      "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
+      "propertyName": "경주 어썸웨이 풀빌라",
       "name": "B-1(독채)",
+      "nameEn": "B-1",
       "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
       "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
       "usageGuide": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
       "group": null,
       "size": 125,
+      "sizePyeong": 37.8,
       "baseOccupancy": 2,
       "maxOccupancy": 8,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -703,6 +808,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "5e94d853-0b75-4319-a4ef-b94fa5647f66",
       "images": [
         {
           "thumbnail": [],
@@ -710,22 +816,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 5
+      "displayOrder": 5,
+      "createdAt": "2026-01-05T05:28:07.926Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "66a71bce-1234-4a28-adcd-4d0b578582ff",
+      "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
+      "propertyName": "경주 어썸웨이 풀빌라",
       "name": "B-2(독채)",
+      "nameEn": "B-2",
       "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
       "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
       "usageGuide": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
       "group": null,
       "size": 125,
+      "sizePyeong": 37.8,
       "baseOccupancy": 2,
       "maxOccupancy": 8,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -757,6 +884,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "5e94d853-0b75-4319-a4ef-b94fa5647f66",
       "images": [
         {
           "thumbnail": [],
@@ -764,22 +892,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 6
+      "displayOrder": 6,
+      "createdAt": "2026-01-05T05:28:07.933Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "1f50e92a-c4c7-463a-9b7b-eacd7acba031",
+      "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
+      "propertyName": "경주 어썸웨이 풀빌라",
       "name": "B-3(독채)",
+      "nameEn": "B-3",
       "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
       "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
       "usageGuide": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
       "group": null,
       "size": 125,
+      "sizePyeong": 37.8,
       "baseOccupancy": 2,
       "maxOccupancy": 8,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -811,6 +960,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "5e94d853-0b75-4319-a4ef-b94fa5647f66",
       "images": [
         {
           "thumbnail": [],
@@ -818,22 +968,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 7
+      "displayOrder": 7,
+      "createdAt": "2026-01-05T05:28:08.000Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "ec43da2e-e957-474e-96bf-6dcc154e6963",
+      "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
+      "propertyName": "경주 어썸웨이 풀빌라",
       "name": "B-4(독채)",
+      "nameEn": "B-4",
       "description": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
       "roomInfo": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
       "usageGuide": "독채형 : 침대룸A(퀸2)+침대룸B(퀸2)+화장실2+거실 겸 주방+테라스+풀빌라",
       "group": null,
       "size": 125,
+      "sizePyeong": 37.8,
       "baseOccupancy": 2,
       "maxOccupancy": 8,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -865,6 +1036,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "5e94d853-0b75-4319-a4ef-b94fa5647f66",
       "images": [
         {
           "thumbnail": [],
@@ -872,10 +1044,15 @@
           "exterior": []
         }
       ],
-      "displayOrder": 8
+      "displayOrder": 8,
+      "createdAt": "2026-01-05T05:28:07.928Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     }
   ],
   "homepage": {
+    "id": "122037db-cb7a-49a8-a0ba-cde59245921c",
     "domain": "awesomeway.kr",
     "templateType": "full_banner_slider_flat",
     "images": [
@@ -969,7 +1146,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "여행의 순간을 더 어썸하게 만드는 풀빌라"
+                "description": "여행의 순간을 더 어썸하게 만드는 풀빌라",
+                "mediaType": "image",
+                "videos": []
               },
               "closing": {
                 "title": " ",
@@ -982,7 +1161,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": " ",
+                "mediaType": "image",
+                "videos": []
               },
               "essence": {
                 "title": "객실 안에서 즐기는 단독 풀장과 프라이빗하게 이어지는 건식 사우나에서, 밖으로 나서지 않아도 완성되는 휴식을 경험하며 온전히 나만을 위한 시간이 흐릅니다.",
@@ -1002,7 +1183,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "Something special, the Awesome Way."
+                "description": "Something special, the Awesome Way.",
+                "mediaType": "image",
+                "videos": []
               },
               "gallery": {
                 "title": "About Awesome Way",
@@ -1049,7 +1232,9 @@
                     "description": "개별바베큐",
                     "isSelected": true
                   }
-                ]
+                ],
+                "mediaType": "image",
+                "videos": []
               },
               "signature": {
                 "title": "ㅇㅇㅇ",
@@ -1083,7 +1268,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "ㅇㅇㅇ"
+                "description": "ㅇㅇㅇ",
+                "mediaType": "image",
+                "videos": []
               }
             }
           ]
@@ -1186,32 +1373,6 @@
           ]
         }
       },
-      "theme": {
-        "font": {
-          "koSub": {
-            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
-            "key": "pretendard",
-            "woff2": null,
-            "family": "Pretendard"
-          },
-          "enMain": {
-            "cdn": "https://fonts.googleapis.com/css2?family=Oooh+Baby&display=swap",
-            "key": "ooohbaby",
-            "woff2": null,
-            "family": "Oooh Baby"
-          },
-          "koMain": {
-            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
-            "key": "pretendard",
-            "woff2": null,
-            "family": "Pretendard"
-          }
-        },
-        "color": {
-          "primary": "#FFFFFF",
-          "secondary": "#442727"
-        }
-      },
       "popup": {
         "popups": [
           {
@@ -1237,7 +1398,34 @@
           }
         ]
       },
+      "theme": {
+        "font": {
+          "koMain": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
+          "koSub": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
+          "enMain": {
+            "cdn": "https://fonts.googleapis.com/css2?family=Oooh+Baby&display=swap",
+            "key": "ooohbaby",
+            "woff2": null,
+            "family": "Oooh Baby"
+          }
+        },
+        "color": {
+          "primary": "#FFFFFF",
+          "secondary": "#442727"
+        }
+      },
       "property": {
+        "name": "경주 어썸웨이 풀빌라",
         "images": [
           {
             "id": "a444d99d-0f09-4d72-a4d5-b4359d88a062",
@@ -1351,7 +1539,8 @@
             "isSelected": true,
             "category": "property_exterior"
           }
-        ]
+        ],
+        "nameEn": "Gyeongju Awesomeway Pool Villa"
       },
       "roomtypes": [
         {
@@ -3042,7 +3231,6 @@
           ]
         }
       ]
-    },
-    "id": "122037db-cb7a-49a8-a0ba-cde59245921c"
+    }
   }
 }
