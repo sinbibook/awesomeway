@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.82.0",
-    "generatedAt": "2026-05-07T08:32:07.760582824Z",
+    "version": "1.83.0",
+    "generatedAt": "2026-05-18T05:15:41.838576384Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e",
     "homepageId": "122037db-cb7a-49a8-a0ba-cde59245921c"
@@ -25,7 +25,7 @@
     "province": "경상북도",
     "city": "경주시",
     "domain": "awesomeway.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/partner/item/10553/calendar_list/",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/1872423346",
     "ybsId": "79364",
     "amenities": [ ],
     "nearbyAttractions": [
@@ -370,7 +370,7 @@
           {
             "id": "056e4bf2-5305-456c-a78f-d7eaf4258e07",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/ed9c648b-6a8a-441d-a0b3-0eca5ff8b02e/exterior/1773122027551-58yxwbync7h.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -498,6 +498,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -566,6 +567,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -634,6 +636,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -702,6 +705,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -770,6 +774,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -837,6 +842,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -904,6 +910,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -971,6 +978,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
